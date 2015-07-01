@@ -1,0 +1,12 @@
+c:\users\stanley\documents\visual studio 2013\Projects\CrmApplication5\CrmApplication5\bin\Debug\CrmApplication5.exe.config
+c:\users\stanley\documents\visual studio 2013\Projects\CrmApplication5\CrmApplication5\bin\Debug\database\Contacts.mdf
+c:\users\stanley\documents\visual studio 2013\Projects\CrmApplication5\CrmApplication5\bin\Debug\database\Contacts_log.ldf
+c:\users\stanley\documents\visual studio 2013\Projects\CrmApplication5\CrmApplication5\bin\Debug\CrmApplication5.exe
+c:\users\stanley\documents\visual studio 2013\Projects\CrmApplication5\CrmApplication5\bin\Debug\CrmApplication5.pdb
+c:\users\stanley\documents\visual studio 2013\Projects\CrmApplication5\CrmApplication5\bin\Debug\CrmApplication5.xml
+c:\users\stanley\documents\visual studio 2013\Projects\CrmApplication5\CrmApplication5\obj\Debug\CrmApplication5.Form1.resources
+c:\users\stanley\documents\visual studio 2013\Projects\CrmApplication5\CrmApplication5\obj\Debug\CrmApplication5.Resources.resources
+c:\users\stanley\documents\visual studio 2013\Projects\CrmApplication5\CrmApplication5\obj\Debug\CrmApplication5.vbproj.GenerateResource.Cache
+c:\users\stanley\documents\visual studio 2013\Projects\CrmApplication5\CrmApplication5\obj\Debug\CrmApplication5.exe
+c:\users\stanley\documents\visual studio 2013\Projects\CrmApplication5\CrmApplication5\obj\Debug\CrmApplication5.xml
+c:\users\stanley\documents\visual studio 2013\Projects\CrmApplication5\CrmApplication5\obj\Debug\CrmApplication5.pdb
